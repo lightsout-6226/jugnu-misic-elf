@@ -1,6 +1,4 @@
-# Hi, I'm Kabir! 👋
-
-I'm a Discord Bot Developer and here is mine Discord Music Bot
+# Hi, I'm lightsout! 👋
 
 # Advance Discord Music Bot
 
@@ -44,10 +42,10 @@ a discord music bot with many commands , buttons , 24/7 , autoresume ,etc
 
 ## Feedback
 
-If you have any feedback, please reach out to us at [Discord Server](https://discord.gg/FuKfAREn9f)
+If you have any feedback, please reach out to us at [Discord Server](https://discord.gg/AaZasMN3yG)
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+
 
 # Thanks For Using Music bot Please Give a Star and please give me credit
