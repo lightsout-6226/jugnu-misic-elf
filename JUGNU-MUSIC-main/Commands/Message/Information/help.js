@@ -75,12 +75,13 @@ module.exports = {
       })
       .setThumbnail(message.guild.iconURL({ dynamic: true }))
       .setDescription(
-        `** An advanced  Music System with Audio Filtering A unique Music Request System and way much more! **`
+        `** In music, you CAN crash your plane and walk away from it
+        **`
       )
       .addFields([
         {
           name: `Stats`,
-          value: `>>> ** :gear: \`${allcommands}\` Commands \n :file_folder: \`${allguilds}\` Guilds \n ⌚️ ${botuptime} Uptime \n 🏓 \`${client.ws.ping}\` Ping \n  Made by [\` Tech Boy Development \`](https://discord.gg/PcUVWApWN3) **`,
+          value: `>>> ** :gear: \`${allcommands}\` Commands \n :file_folder: \`${allguilds}\` Guilds \n ⌚️ ${botuptime} Uptime \n 🏓 \`${client.ws.ping}\` Ping \n  Made by [\` lights.out \`](https://discord.gg/AaZasMN3yG) **`,
         },
       ])
       .setFooter(client.getFooter(message.author));
